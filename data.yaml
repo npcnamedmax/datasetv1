@@ -1,0 +1,22 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 14
+names:
+  [
+    "apple",
+    "arugula",
+    "bacon",
+    "beef",
+    "broccoli",
+    "caesar salad",
+    "cantaloupe",
+    "cauliflower",
+    "chicken",
+    "fish",
+    "mixed greens",
+    "rice",
+    "sausage",
+    "scrambled eggs",
+  ]
