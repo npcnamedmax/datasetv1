@@ -1,6 +1,6 @@
-train: ./new_train/images
-val: ./new_valid/images
-test: ./new_test/images
+train: ./train/images
+val: ./valid/images
+test: ./test/images
 
 nc: 14
 names:
