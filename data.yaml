@@ -1,7 +1,7 @@
 train: ./train/images
-val: ./test/images
+val: ./oldvalid/images
 test: ./valid/images
-
+valtest: ./valtest/images
 nc: 14
 names:
   [
